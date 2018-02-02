@@ -1,0 +1,10 @@
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\bin\Debug\JeopardyForms.exe.config
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\bin\Debug\JeopardyForms.exe
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\bin\Debug\JeopardyForms.pdb
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\obj\Debug\JeopardyForms.csprojResolveAssemblyReference.cache
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\obj\Debug\JeopardyForms.Form1.resources
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\obj\Debug\JeopardyForms.Properties.Resources.resources
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\obj\Debug\JeopardyForms.csproj.GenerateResource.Cache
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\obj\Debug\JeopardyForms.csproj.CoreCompileInputs.cache
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\obj\Debug\JeopardyForms.exe
+C:\Users\SolemnDivinity\source\repos\JeopardyForms\JeopardyForms\obj\Debug\JeopardyForms.pdb

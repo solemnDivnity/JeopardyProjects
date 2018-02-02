@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+  <Category name="S Words">
+    <Tile value="200">
+      <question>This is the type of man Popeye is.</question>
+      <possibleAnswers>
+        <answer>sailor</answer>
+      </possibleAnswers>
+    </Tile>
+    <Tile value="400">
+      <question>This is what you are when you lose. Also what the sea is.</question>
+      <possibleAnswers>
+        <answer>salty</answer>
+      </possibleAnswers>
+    </Tile>
+  </Category>
+  <Category name="Potent Potables">
+    <Tile value="200">
+      <question>This is the preferred drink of James Bond</question>
+      <possibleAnswers>
+        <answer>martini</answer>
+      </possibleAnswers>
+    </Tile>
+    <Tile value="400">
+      <question>This is a popular drink with the russians.</question>
+      <possibleAnswers>
+        <answer>vodka</answer>
+        <answer>bear piss</answer>
+      </possibleAnswers>
+    </Tile>
+  </Category>
+</Categories>
